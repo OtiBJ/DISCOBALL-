@@ -1,4 +1,4 @@
-# DISCOBALL-
+# DISCO BALL-
 #include <Servo.h>//here we add the servo pre-made functions
 
 Servo myservo;  // create servo object to control a servo
